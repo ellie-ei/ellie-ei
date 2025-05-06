@@ -2,8 +2,8 @@
 
 I'm a Senior Machine Learning Engineer with more than 7 years of experience delivering ML solutions across real-time mobile and large-scale cloud systems.
 
----
 
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -26,6 +26,7 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
+---
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent" />
 
@@ -34,6 +35,8 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
 
 [twitter]: https://twitter.com/ElhamIdeli
 [linkedin]: https://www.linkedin.com/in/elham-ideli-9698987a/
+
+---
 
 ### Connect with me:
 
