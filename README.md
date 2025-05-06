@@ -10,9 +10,6 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elham-ideli-9698987a/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elham-ideli-9698987a/#gh-dark-mode-only)
 
-<br />
-<br />
-
 ---
 
 <summary>:zap: GitHub Stats</summary>
