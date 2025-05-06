@@ -1,6 +1,6 @@
 # Hi there, I'm Elham 👋 
 
-I'm a Senior Machine Learning Engineer with more than 7 years of experience delivering ML solutions across real-time mobile and large-scale cloud systems.
+I'm a Senior Machine Learning Engineer with 7+ years of experience building and deploying ML solutions across real-time mobile applications and large-scale cloud platforms.
 
 
 # 💻 Tech Stack:
@@ -26,18 +26,16 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
----
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent" />
 
-<summary>:zap: Top Languages</summary>
-<img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8" />
+# GitHub Stats
+<img alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent" />
+
+<img alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8" />
 
 [twitter]: https://twitter.com/ElhamIdeli
 [linkedin]: https://www.linkedin.com/in/elham-ideli-9698987a/
 
----
-
+----
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/elhamideli#gh-light-mode-only)
