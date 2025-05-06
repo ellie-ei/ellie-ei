@@ -5,8 +5,8 @@ I'm Elham Ideli a Senior Machine Learning Engineer with more than 7 years of exp
 ### My stats ⭐
 
 <div align="center">
-<img alt="Elham's GitHub stats" src="https://github-readme-stats-hazel-beta-89.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats-hazel-beta-89.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8"/>
+<img alt="Elham's GitHub stats" src="https://github-readme-stats-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats-ellies-projects-babd877f.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
