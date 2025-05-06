@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Elham 👋
 
-<!--
-**ellie-ei/ellie-ei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elham Ideli a Senior Machine Learning Engineer with more than 7 years of experience delivering ML solutions across real-time mobile and large-scale cloud systems.
 
-Here are some ideas to get you started:
+### My stats ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img alt="Elham's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![Elham Ideli profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ellie-ei)
