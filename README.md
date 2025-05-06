@@ -4,11 +4,11 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/elhamideli#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/elhamideli#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elham-ideli-9698987a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elham-ideli-9698987a/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -26,16 +26,12 @@ I'm a Senior Machine Learning Engineer with more than 7 years of experience deli
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+  <img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api?username=ellie-ei&show_icons=true&theme=transparent" />
 </details>
 
 <details>
   <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api/top-langs/?username=ellie-ei&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+  <img align="left" alt="Elham's GitHub Stats" src="https://github-readme-stats-git-master-ellies-projects-babd877f.vercel.app/api/top-langs/?username=ellie-ei&layout=compact&&langs_count=8" />
 </details>
 
 [twitter]: https://twitter.com/ElhamIdeli
